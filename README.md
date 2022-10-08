@@ -1,9 +1,8 @@
 <h1 align="center">Olá 👋, meu nome é Artur</h1>
 <h3 align="center">Sou um desenvolvedor front-end com experiência em HTML, CSS, Javascript, React e NextJs.</h3>
+
 - 📚 **Cursando Ciência da Computação**
-
 - 🌱 No momento estou... **Buscando maneiras de evoluir minhas habilidades com Front-end, além de introduzir conceitos de Back-end, com o objetivo de me tornar FullStack.**
-
 - 📫 Entre em contato **arturrodriguesmota@hotmail.com**
 
 <h3 align="left">Conecte-se:</h3>
