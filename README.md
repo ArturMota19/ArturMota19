@@ -3,7 +3,7 @@
 
 - 📚 **Cursando Ciência da Computação**
 - 🌱 No momento estou... **Buscando maneiras de evoluir minhas habilidades com Front-end, além de introduzir conceitos de Back-end, com o objetivo de me tornar FullStack.**
-- 📫 Entre em contato **arturrodriguesmota@hotmail.com**
+- 📫 Entre em contato **artur19rodriguesmota@gmail.com**
 
 <h3 align="left">Conecte-se:</h3>
 <p align="left">
