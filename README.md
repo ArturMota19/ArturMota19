@@ -1,10 +1,3 @@
-<h1 align="center">Olá 👋, meu nome é Artur</h1>
-<h3 align="center">Sou um desenvolvedor front-end com experiência em HTML, CSS, Javascript, React e NextJs.</h3>
-
-- 📚 **Cursando Ciência da Computação**
-- 🌱 No momento estou... **Buscando maneiras de evoluir minhas habilidades com Front-end, além de introduzir conceitos de Back-end, com o objetivo de me tornar FullStack.**
-- 📫 Entre em contato **artur19rodriguesmota@gmail.com**
-
 <h3 align="left">Conecte-se:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/artur mota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artur mota" height="30" width="40" /></a>
